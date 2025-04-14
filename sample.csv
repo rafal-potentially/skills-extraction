@@ -1,0 +1,8 @@
+job_id,description
+1,"
+This course is an introductory overview of Cryptology and Secure Programming. Students will learn the skills needed to develop their security solutions through a detailed study of cryptographic history and current cryptographic algorithms. Students will learn the many aspects of a security team and how each role contributes to security’s overall design. In and out of class, projects will focus on using, creating, and designing security solutions for both digital and non-digital domains. Prerequisites: CS 106, CS 235, MA 164.
+
+This course explores the development of web-based applications and dynamic web pages using modern development tools and languages. Topics to be covered include basic web site design, scripting languages, web servers, use of databases and SQL in the development of dynamic web sites and web security. Prerequisite: CS 326 & CS 388.
+
+This course provides students the opportunity to take electives in an area of special interest in computer science. When possible, the course will be taught by experts from the field. Topics may include educational software development, artificial intelligence, robotics, embedded systems, bioinformatics, and cryptography. Prerequisite: permission of instructor.
+"
